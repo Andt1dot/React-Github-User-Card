@@ -21,7 +21,7 @@ Commit your code regularly and meaningfully. This helps you and any collaborator
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: git push origin `<firstName-lastName>`.
 
-Follow these steps for completing your project.
+Follow these steps for completing your project   
 
 - [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into main (student's Repository). **Please don't merge your own pull request**
 - [ ] From the home page of your repo, make sure you have your branch selected
